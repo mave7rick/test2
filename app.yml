@@ -1,6 +1,6 @@
 test:
     base:
         certificate:
-        abcd
+        efgh
         key:
-        abcd
+        efgh
